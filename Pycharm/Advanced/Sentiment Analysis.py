@@ -10,10 +10,10 @@ import re
 import matplotlib.pyplot as plt
 plt.style.use("fivethirtyeight")
 
-consumer_key = "NAeWqTNncW9CMX10D42WgKl41"
-consumer_key_secret = "PRtcNLX9vJheXYNxlkYR7AznkM68uzGZ5z8o8P0TCDmcYXt7ND"
-access_token = "3717985341-qijw5QwLM0CzBa3Sd6poeqLXtKsgLmWPZ4qiOAU"
-access_token_secret = "PCYu6eHs4cXK0AzSGkRgptcW4PBn0WHBritA2BXQP3hdc"
+consumer_key = ""
+consumer_key_secret = ""
+access_token = ""
+access_token_secret = ""
 
 
 
